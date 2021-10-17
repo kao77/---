@@ -18,6 +18,6 @@
 為了讓剛入學的學弟妹們可以更快融入自己的校園，我們以高科為中心點，以懶人包的形式將食衣住行的資訊介紹給大家。呈現的形式將參考以下的網頁。  
 https://khh.travel/zh-tw/travel/theme-tour
 ## PERT圖:
-![PERT圖](Team2.jopg)
+![PERT圖](Team2.jpg)
 ## 甘特圖:
 ![甘特圖](gantt.png)
