@@ -21,3 +21,8 @@ https://khh.travel/zh-tw/travel/theme-tour
 ![PERT圖](Team2.jpg)
 ## 甘特圖:
 ![甘特圖](gantt.png)
+
+## 功能性:
+圖片顯示、資訊顯示、可搜尋
+## 非功能性:
+可維護性、可擴充性、使用性
