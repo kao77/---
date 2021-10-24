@@ -35,7 +35,7 @@ https://khh.travel/zh-tw/travel/theme-tour
 
 使用性
 ## 功能分解圖:
-![功能分解圖](功能分析圖.jpg)
+![功能分解圖](功能分析圖.PNG)
 ## 需求分析:
 1、用戶可以透過"po文版"投稿文章。
 
