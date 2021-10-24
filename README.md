@@ -26,3 +26,5 @@ https://khh.travel/zh-tw/travel/theme-tour
 圖片顯示、資訊顯示、可搜尋
 ## 非功能性:
 可維護性、可擴充性、使用性
+## 功能分解圖:
+![功能分解圖](功能分析圖.jpg)
