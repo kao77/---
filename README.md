@@ -82,6 +82,9 @@ https://khh.travel/zh-tw/travel/theme-tour
 ## DFD圖0程序
 ![DFD圖0程序)](圖0.jpg)
 
+## UML類別圖
+![UML類別圖](UML類別圖.jpg)
+
 ## 循序圖
 ![循序圖1](循序圖1.jpg)
 
@@ -102,3 +105,7 @@ https://khh.travel/zh-tw/travel/theme-tour
 ![分鏡圖3](分鏡圖3.JPG)
 
 ![分鏡圖4](分鏡圖4.JPG)
+
+## ERD圖
+![ERD圖](ERD圖.jpg)
+
