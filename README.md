@@ -109,3 +109,5 @@ https://khh.travel/zh-tw/travel/theme-tour
 ## ERD圖
 ![ERD圖](ERD圖.jpg)
 
+## 影片展示
+[![高科大生存指南](高科大生存指南.png)](https://youtu.be/N2dO4pdkFFY "高科大生存指南")
